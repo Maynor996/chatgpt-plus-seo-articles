@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Maynor996.github.io/chatgpt-plus-seo-articles/sitemap.xml
